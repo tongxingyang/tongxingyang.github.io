@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tongxingyang.github.io/"/>
-  <updated>2019-05-21T09:07:01.000Z</updated>
+  <updated>2019-05-21T09:56:27.000Z</updated>
   <id>https://tongxingyang.github.io/</id>
   
   <author>
@@ -17,24 +17,22 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://tongxingyang.github.io/2019/05/21/test/"/>
-    <id>https://tongxingyang.github.io/2019/05/21/test/</id>
-    <published>2019-05-21T07:58:01.000Z</published>
-    <updated>2019-05-21T09:07:01.000Z</updated>
+    <title>搭建博客</title>
+    <link href="https://tongxingyang.github.io/2019/05/21/setupblogs/"/>
+    <id>https://tongxingyang.github.io/2019/05/21/setupblogs/</id>
+    <published>2019-05-21T09:31:15.000Z</published>
+    <updated>2019-05-21T09:56:27.000Z</updated>
     
     <summary type="html">
     
     </summary>
     
-      <category term="读书笔记" scheme="https://tongxingyang.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-      <category term="计算机" scheme="https://tongxingyang.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+      <category term="其他知识" scheme="https://tongxingyang.github.io/categories/%E5%85%B6%E4%BB%96%E7%9F%A5%E8%AF%86/"/>
     
     
-      <category term="dushu" scheme="https://tongxingyang.github.io/tags/dushu/"/>
+      <category term="搭建" scheme="https://tongxingyang.github.io/tags/%E6%90%AD%E5%BB%BA/"/>
     
-      <category term="读书" scheme="https://tongxingyang.github.io/tags/%E8%AF%BB%E4%B9%A6/"/>
+      <category term="博客" scheme="https://tongxingyang.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
