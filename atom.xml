@@ -5,9 +5,9 @@
   <subtitle>Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2019-05-21T06:30:27.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://tongxingyang.github.io/"/>
+  <updated>2019-05-21T09:07:01.000Z</updated>
+  <id>https://tongxingyang.github.io/</id>
   
   <author>
     <name>[object Object]</name>
@@ -18,15 +18,23 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/05/21/hello-world/"/>
-    <id>http://yoursite.com/2019/05/21/hello-world/</id>
-    <published>2019-05-21T05:23:48.000Z</published>
-    <updated>2019-05-21T06:30:27.000Z</updated>
+    <link href="https://tongxingyang.github.io/2019/05/21/test/"/>
+    <id>https://tongxingyang.github.io/2019/05/21/test/</id>
+    <published>2019-05-21T07:58:01.000Z</published>
+    <updated>2019-05-21T09:07:01.000Z</updated>
     
     <summary type="html">
     
     </summary>
     
+      <category term="读书笔记" scheme="https://tongxingyang.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="计算机" scheme="https://tongxingyang.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    
+      <category term="dushu" scheme="https://tongxingyang.github.io/tags/dushu/"/>
+    
+      <category term="读书" scheme="https://tongxingyang.github.io/tags/%E8%AF%BB%E4%B9%A6/"/>
     
   </entry>
   
