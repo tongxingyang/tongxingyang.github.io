@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tongxingyang.github.io/"/>
-  <updated>2019-05-21T09:56:27.000Z</updated>
+  <updated>2019-06-27T03:08:13.000Z</updated>
   <id>https://tongxingyang.github.io/</id>
   
   <author>
@@ -17,22 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>搭建博客</title>
+    <title>unity render顺序</title>
     <link href="https://tongxingyang.github.io/2019/05/21/setupblogs/"/>
     <id>https://tongxingyang.github.io/2019/05/21/setupblogs/</id>
     <published>2019-05-21T09:31:15.000Z</published>
-    <updated>2019-05-21T09:56:27.000Z</updated>
+    <updated>2019-06-27T03:08:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="unity-render顺序"><a href="#unity-render顺序" class="headerlink" title="unity render顺序"></a>unity render顺序</h1><h2 id="影响顺序的因素"><a href="#影响顺序的因素" class="headerlink" title="影响顺序的因素"></a>影响顺序的因素</h2><pre><code>Canvas.DeepthSortingLayerOrderinLayerRenderQueueDistance</code></pre><h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2><pre><code>1.CameraDepth越小越优先2.RenderQueue2500以下    SortingLayer优先级大于OrderinLayer 大于RunderQueue 越小越优先 SortingLayer,OrderinLayer,RenderQueue相同时 由近到远排序优先3.RenderQueue2500以上     SortingLayer优先级大于OrderinLayer 大于RunderQueue 越小越优先 SortingLayer,OrderinLayer,RenderQueue相同时 由远到近排序优先4.RenderQueue一个大于2500 一个小于等于2500时候无论它的SortingLayer和OrderinLayer如何排序,都不会起作用而是 渲染队列大的会挡住渲染队列小的</code></pre><h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><pre><code>半透明物体的渲染顺序是越远越先渲染从后到前排序,不透明物体是越近越先渲染从前到后排序</code></pre>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;h1 id=&quot;unity-render顺序&quot;&gt;&lt;a href=&quot;#unity-render顺序&quot; class=&quot;headerlink&quot; title=&quot;unity render顺序&quot;&gt;&lt;/a&gt;unity render顺序&lt;/h1&gt;&lt;h2 id=&quot;影响顺序的因素&quot;&gt;&lt;a href=
+      
+    
     </summary>
     
-      <category term="其他知识" scheme="https://tongxingyang.github.io/categories/%E5%85%B6%E4%BB%96%E7%9F%A5%E8%AF%86/"/>
+      <category term="unity" scheme="https://tongxingyang.github.io/categories/unity/"/>
     
     
-      <category term="搭建" scheme="https://tongxingyang.github.io/tags/%E6%90%AD%E5%BB%BA/"/>
-    
-      <category term="博客" scheme="https://tongxingyang.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="unity" scheme="https://tongxingyang.github.io/tags/unity/"/>
     
   </entry>
   
